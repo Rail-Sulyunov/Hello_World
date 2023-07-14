@@ -11,9 +11,9 @@ import org.springframework.web.servlet.view.InternalResourceViewResolver;
 @Configuration
 @ComponentScan("mvc")
 @EnableWebMvc
-public class MyConfig{
+public class MyConfig {
     @Bean
-    public ViewResolver viewResolver (){
+    public ViewResolver viewResolver() {
         InternalResourceViewResolver internalResourceViewResolver =
                 new InternalResourceViewResolver();
         internalResourceViewResolver.setPrefix("/WEB-INF/view/");
