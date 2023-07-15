@@ -6,8 +6,8 @@
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
   <properties>
-    <maven.compiler.source>4</maven.compiler.source>
-    <maven.compiler.target>4</maven.compiler.target>
+    <maven.compiler.source>3.8.0</maven.compiler.source>
+    <maven.compiler.target>3.8.0</maven.compiler.target>
   </properties>
   <name>untitled3 Maven Webapp</name>
   <url>http://maven.apache.org</url>
