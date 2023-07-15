@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h2>Hello My Friends12345!!!</h2>
+<h2>Hello My Friends!</h2>
 
 </body>
 
